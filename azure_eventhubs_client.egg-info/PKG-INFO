@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: azure-eventhubs-client
+Version: 0.91
+Summary: Azure Eventhubs client that simply works
+Home-page: https://github.com/KnockriInc/azure_eventhubs_client
+Author: Knockri
+Author-email: saman@knockri.com
+Maintainer: Saman A. Pour
+Maintainer-email: samanamp@knockri.com
+License: UNKNOWN
+Description: # azure_eventhubs_client
+        # azure_eventhubs_client
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
