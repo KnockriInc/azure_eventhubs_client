@@ -1,0 +1,11 @@
+README.md
+setup.py
+azure_eventhubs_client/__init__.py
+azure_eventhubs_client/consumer.py
+azure_eventhubs_client/producer.py
+azure_eventhubs_client/redis_cache.py
+azure_eventhubs_client.egg-info/PKG-INFO
+azure_eventhubs_client.egg-info/SOURCES.txt
+azure_eventhubs_client.egg-info/dependency_links.txt
+azure_eventhubs_client.egg-info/requires.txt
+azure_eventhubs_client.egg-info/top_level.txt
