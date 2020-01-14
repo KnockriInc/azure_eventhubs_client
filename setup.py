@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='azure_eventhubs_client',
-    version="0.91",
+    version="0.95",
     author="Knockri",
     author_email="saman@knockri.com",
     url='https://github.com/KnockriInc/azure_eventhubs_client',
