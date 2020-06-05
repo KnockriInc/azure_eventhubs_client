@@ -58,7 +58,7 @@ class Consumer:
                                                           prefetch=5000,
                                                           offset=OFFSET)
             self.eventhubs_client.run()
-            for message in receiver.receive(timeout=5):
+            for message in receiver.receive(timeout=100):
                 messages.append(
                     {"message": message, "partition_id": partition_id})
         self.eventhubs_client.stop()

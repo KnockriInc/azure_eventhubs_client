@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: azure-eventhubs-client
-Version: 0.98
+Version: 0.98.1
 Summary: Azure Eventhubs client that simply works
 Home-page: https://github.com/KnockriInc/azure_eventhubs_client
 Author: Knockri
